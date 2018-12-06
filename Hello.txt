@@ -1,6 +1,6 @@
 Hello 
 Good morning!
 Good afternoon
-
 Practicing conflicts!
+Learning Git
 
